@@ -1,0 +1,22 @@
+{
+  "ProfileTitle": "Profile",
+  "Message_EnterName": "Enter name",
+  "Name": "Name",
+  "Update": "Update",
+  "Menu_Bill" : "Bill",
+  "Menu_History" : "History",
+  "Menu_Planning" : "Planning",
+  "Menu_NewRecord" : "New record",
+  "Menu_Categories" : "Categories",
+  "Categories": "Categories",
+  "NoCategories": "NoCategories",
+  "History": "History",
+  "DetailDescription": "Description: ",
+  "DetailSumm": "Summ: ",
+  "DetailCategory": "Category: ",
+  "Income": "Income",
+  "DetailTitle": "Detail",
+  "Login": "Login",
+  "Register": "Register"
+
+}

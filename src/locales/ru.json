@@ -1,0 +1,22 @@
+{
+  "ProfileTitle": "Профиль",
+  "Message_EnterName": "Введите имя",
+  "Name": "Имя",
+  "Update": "Обновить",
+  "Menu_Bill" : "Счет",
+  "Menu_History" : "История",
+  "Menu_Planning" : "Планирование",
+  "Menu_NewRecord" : "Новая запись",
+  "Menu_Categories" : "Категории",
+  "Categories": "Категории",
+  "NoCategories": "Категорий пока нет",
+  "History": "История",
+  "DetailDescription": "Описание: ",
+  "DetailSumm": "Сумма: ",
+  "DetailCategory": "Category: ",
+  "Income": "Доход",
+  "DetailTitle": "Запись",
+  "Login": "Логин",
+  "NewRecord": "Новая запись",
+  "Register": "Регистрация"
+}
